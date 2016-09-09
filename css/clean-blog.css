@@ -165,6 +165,11 @@ hr.small {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 50px;
+  /*Shadowing element*/
+  width:1500px;
+    height:50px;
+    background-color:black;
+    opacity:0.5;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
